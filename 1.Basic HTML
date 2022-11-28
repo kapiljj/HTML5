@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doc</title>
+</head>
+<body>
+    <h1>head</h1>
+    <p>books to read</p>
+    <a href="https://www.google.com/%22%3EThis is google.com</a>
+    <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg" alt="under" width="90px">
+    <b>bold</b>
+    <br>
+    <i>italic</i>
+    <br>
+    <u>underline</u>
+    <hr>
+</body>
+</html>
